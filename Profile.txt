@@ -1,3 +1,4 @@
 Profile Pic
 Email Input
+Username Input
 Logout Button
