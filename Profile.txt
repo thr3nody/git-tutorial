@@ -1,0 +1,3 @@
+Profile Pic
+Email Input
+Logout Button
