@@ -1,3 +1,0 @@
-Home Button
-Profile Button
-Search Button
